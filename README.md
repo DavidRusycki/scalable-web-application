@@ -2,6 +2,8 @@
 
 Conceitos para melhorar a escalabilidade de uma aplicação web.
 
+- [Cache](./teste-cache/)
+
 ___
 
 A imagem está dividida em níveis com explicações de coisas que podem ser feitas para melhorar os aspectos de disponibilidade de aplicações WEB.
